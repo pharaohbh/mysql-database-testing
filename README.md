@@ -6,8 +6,7 @@ I ran everything in MySQL Workbench and wrote the results in a test case sheet.
 
 ## The database
 
-!\[ERD](docs/ERD.png)
-
+   ![ERD](docs/ERD.png)
 There are 4 tables. A customer can have many orders, an order can have many items, and a product can be in many order items. If an order is deleted, its items are deleted too.
 
 ## How to run it
